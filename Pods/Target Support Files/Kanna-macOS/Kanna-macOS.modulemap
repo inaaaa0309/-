@@ -1,0 +1,7 @@
+module Kanna {
+  umbrella header "Kanna-macOS-umbrella.h"
+  exclude header "Kanna-iOS-umbrella.h"
+
+  export *
+  module * { export * }
+}

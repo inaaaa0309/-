@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-iOS/Pods-iOS-resources.sh
+${PODS_CONFIGURATION_BUILD_DIR}/Alamofire-iOS/Alamofire.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/Kanna-iOS/kanna_privacy.bundle
